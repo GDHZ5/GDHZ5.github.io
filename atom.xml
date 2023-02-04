@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://GDHZ5.GITHUB.IO</id>
+    <title>GDHZ5WEB</title>
+    <updated>2023-02-04T14:43:26.706Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://GDHZ5.GITHUB.IO"/>
+    <link rel="self" href="https://GDHZ5.GITHUB.IO/atom.xml"/>
+    <logo>https://GDHZ5.GITHUB.IO/images/avatar.png</logo>
+    <icon>https://GDHZ5.GITHUB.IO/favicon.ico</icon>
+    <rights>All rights reserved 2023, GDHZ5WEB</rights>
+    <entry>
+        <title type="html"><![CDATA[开始]]></title>
+        <id>https://GDHZ5.GITHUB.IO/post/kai-shi/</id>
+        <link href="https://GDHZ5.GITHUB.IO/post/kai-shi/">
+        </link>
+        <updated>2023-02-03T11:17:05.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://GDHZ5.GITHUB.IO/post-images/1675423048019.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
